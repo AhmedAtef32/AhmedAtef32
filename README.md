@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmedatef32003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1diEUEKSQXe9aIS4YkaPh6-fDZPAY8-YY/view?usp=sharing](https://drive.google.com/file/d/1diEUEKSQXe9aIS4YkaPh6-fDZPAY8-YY/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1diEUEKSQXe9aIS4YkaPh6-fDZPAY8-YY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
