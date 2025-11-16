@@ -13,7 +13,7 @@
 
 - 🎨 My Portfolio [Portfolio](https://my-portfolio-three-topaz-68.vercel.app/home)
   
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1WSLRGzoeSyFIG1eQWK0c1xaaHapJm7Gd/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1nYdqAYfyloztpZnylzx1b943f3R2f4FM/view?usp=drive_link)
   
 
 <h3 align="left">Connect with me:</h3>
