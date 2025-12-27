@@ -1,74 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ahmed Atef Al-Sayed</h1>
-<h3 align="center">Frontend Developer (Angular)</h3>
+<h1 align="center">
+  Ahmed Atef
+</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmedatef32&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedatef32" />
+<p align="center">
+  <b>Frontend Developer | Angular</b>
 </p>
 
-- 🌱 I’m currently enhancing my skills in **Frontend Development using Angular**
-- 📝 I regularly share technical posts and experiences on **LinkedIn**
-- 💬 Ask me about **Angular, TypeScript, and UI development**
-- 📫 How to reach me: **ahmedatef32003@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedatef32&label=Profile%20Views&color=6366f1&style=flat" />
+</p>
 
-- 🎨 My Portfolio:  
-  [View Portfolio](https://my-portfolio-three-topaz-68.vercel.app/home)
-
-- 📄 Know more about my experience:  
-  [View CV](https://drive.google.com/file/d/1nYdqAYfyloztpZnylzx1b943f3R2f4FM/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ahmed-atef-19b154224" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-atef-19b154224">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/100024904867605" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook" height="30" width="40" />
+  <a href="https://github.com/ahmedatef32">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://my-portfolio-three-topaz-68.vercel.app/home">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+---
+
+### 👨‍💻 About Me
+
+Frontend Developer specializing in **Angular**, focused on building **modern, scalable, and maintainable UI applications**.  
+I enjoy working on **dashboards, admin panels, reusable components**, and integrating **REST APIs** with clean architecture.
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44"/>
 </p>
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedatef32&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages" />
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="44"/>
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ahmedatef32&show_icons=true&locale=en"
-    alt="GitHub Stats" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="44"/>
+</p>
+
+---
+
+### 🚀 What I Do
+
+- Build **Angular applications** using modern best practices
+- Create **reusable components & UI systems**
+- Integrate **REST APIs**
+- Focus on **clean code & performance**
+- Deploy projects using **Vercel**
+
+---
+
+### 📬 Contact
+
+- 📧 Email: **ahmedatef32003@gmail.com**
+- 💼 LinkedIn: [Ahmed Atef](https://linkedin.com/in/ahmed-atef-19b154224)
+- 🌐 Portfolio: [View Portfolio](https://my-portfolio-three-topaz-68.vercel.app/home)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedatef32&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedatef32&layout=compact&theme=transparent" />
 </p>
