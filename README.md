@@ -1,30 +1,94 @@
-<h1 align="center">Hi 👋, I'm Ahmed Atef Al-Sayed</h1>
-<h3 align="center">Frontend Developer Angular</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedatef32&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedatef32" /> </p>
+<h1>Ahmed Atef</h1>
 
-- 🌱 I’m currently learning **Front-end Development – Angular**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Front-End+Developer;Angular+Specialist;Building+Clean+%26+Scalable+UIs" />
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+<br/>
 
-- 💬 Ask me about **Angular**
+**Front-End Developer focused on Angular, performance, and clean UI architecture.**
 
-- 📫 How to reach me **ahmedatef32003@gmail.com**
+</div>
 
-- 🎨 My Portfolio [Portfolio](https://my-portfolio-three-topaz-68.vercel.app/home)
-  
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1nYdqAYfyloztpZnylzx1b943f3R2f4FM/view?usp=drive_link)
-  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-atef-19b154224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-atef-19b154224" height="30" width="40" /></a>
-<a href="https://fb.com/100024904867605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100024904867605" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Front-End Developer specialized in **Angular**
+- Strong focus on **clean code**, **reusable components**, and **scalable UI**
+- Passionate about modern web standards and performance
+- Always improving and learning new frontend technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedatef32&show_icons=true&locale=en&layout=compact" alt="ahmedatef32" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedatef32&show_icons=true&locale=en" alt="ahmedatef32" /></p>
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=angular,jquery" />
+
+### Styling
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+**🛒 Products Dashboard**
+- Angular + Public API
+- Filtering, sorting & pagination
+- Error handling
+- Reusable components architecture
+
+**🏢 Corporate Website**
+- Modular Angular structure
+- Lazy loading & routing
+- Responsive UI with reusable sections
+
+👉 Explore my repositories for more.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmedAtef32&show_icons=true&theme=tokyonight&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAtef32&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AhmedAtef32&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Contact
+
+- 📧 Email: **ahmedatef32003@gmail.com**
+- 💼 GitHub: https://github.com/AhmedAtef32
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider starring my repositories  
+🤝 Open to collaboration on Angular & Front-End projects
+
+</div>
