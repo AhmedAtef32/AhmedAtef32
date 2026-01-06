@@ -1,30 +1,78 @@
-<h1 align="center">Hi 👋, I'm Ahmed Atef Al-Sayed</h1>
-<h3 align="center">Frontend Developer Angular</h3>
+# 👋 Hi, I'm Ahmed Atef
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedatef32&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedatef32" /> </p>
+🚀 Front-End Developer specialized in **Angular**  
+🎨 Passionate about building clean, scalable, and user-friendly web interfaces  
+📍 Alexandria, Egypt
 
-- 🌱 I’m currently learning **Front-end Development – Angular**
+---
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **Angular**
+- 💻 Front-End Developer with hands-on experience in **Angular**
+- 🎯 Focused on performance, accessibility, and clean UI/UX
+- 🧩 Experienced with reusable components and scalable architecture
+- 📚 Always learning and improving my skills
 
-- 📫 How to reach me **ahmedatef32003@gmail.com**
+---
 
-- 🎨 My Portfolio [Portfolio](https://my-portfolio-three-topaz-68.vercel.app/home)
-  
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1nYdqAYfyloztpZnylzx1b943f3R2f4FM/view?usp=drive_link)
-  
+## 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-atef-19b154224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-atef-19b154224" height="30" width="40" /></a>
-<a href="https://fb.com/100024904867605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100024904867605" height="30" width="40" /></a>
-</p>
+**Frontend**
+- Angular
+- TypeScript
+- HTML5
+- CSS3 / SCSS
+- Tailwind CSS
+- PrimeNG
+- Bootstrap
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Tools & Workflow**
+- Git & GitHub
+- REST APIs
+- Responsive Design
+- Component-based Architecture
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedatef32&show_icons=true&locale=en&layout=compact" alt="ahmedatef32" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedatef32&show_icons=true&locale=en" alt="ahmedatef32" /></p>
+## 📌 Featured Projects
+
+🔹 **Angular Products App**  
+A dynamic Angular app consuming a public API with:
+- Filtering & sorting
+- Pagination
+- Error handling
+- Reusable components  
+
+🔹 **Company Website**
+- Modular Angular architecture
+- Lazy loading & routing
+- Clean UI with reusable UI components
+
+> 📂 Check my repositories to see more projects and code samples.
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAtef&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAtef&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: _add your link here_
+- 📧 Email: _add your email here_
+
+---
+
+## 🤝 Contribution & Collaboration
+
+- Open to collaboration on **Angular** and **Frontend** projects
+- Happy to review PRs and exchange feedback
+- Always interested in learning from the community
+
+---
+
+⭐️ If you like my work, consider giving a star to my repositories!
