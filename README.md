@@ -1,94 +1,56 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Atef&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Modern%20Front-End%20Experiences%20with%20Angular&descSize=20&descAlignY=55" width="100%"/>
+</div>
 
-<h1>Ahmed Atef</h1>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Front-End+Developer;Angular+Specialist;Building+Clean+%26+Scalable+UIs" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DD0031&center=true&vCenter=true&width=800&lines=Front-End+Developer;Angular+Specialist;Clean+UI+%7C+Scalable+Components;Modern+Web+Interfaces)](https://git.io/typing-svg)
 
 <br/>
 
-**Front-End Developer focused on Angular, performance, and clean UI architecture.**
+<img src="https://komarev.com/ghpvc/?username=AhmedAtef32&label=Profile%20Views&color=DD0031&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AhmedAtef32?label=Followers&style=for-the-badge&color=DD0031"/>
+<img src="https://img.shields.io/badge/Focus-Front--End%20Development-DD0031?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based%20In-Alexandria%20🇪🇬-DD0031?style=for-the-badge"/>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
 
 ## 🧠 About Me
 
-- Front-End Developer specialized in **Angular**
-- Strong focus on **clean code**, **reusable components**, and **scalable UI**
-- Passionate about modern web standards and performance
-- Always improving and learning new frontend technologies
+```ts
+const ahmedAtef = {
+  role: "Front-End Developer",
+  location: "Alexandria, Egypt 🇪🇬",
 
----
+  techStack: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Sass",
+    "jQuery",
+    "TypeScript",
+    "Angular"
+  ],
 
-## 🛠 Tech Stack
+  focus: [
+    "Reusable Components",
+    "Clean UI Architecture",
+    "Performance Optimization",
+    "Responsive Design"
+  ],
 
-<div align="center">
+  currentlyWorkingOn: "Angular Applications 🚀",
+  email: "ahmedatef32003@gmail.com",
 
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=angular,jquery" />
-
-### Styling
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 🚀 Selected Projects
-
-**🛒 Products Dashboard**
-- Angular + Public API
-- Filtering, sorting & pagination
-- Error handling
-- Reusable components architecture
-
-**🏢 Corporate Website**
-- Modular Angular structure
-- Lazy loading & routing
-- Responsive UI with reusable sections
-
-👉 Explore my repositories for more.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmedAtef32&show_icons=true&theme=tokyonight&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAtef32&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 📈 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AhmedAtef32&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Contact
-
-- 📧 Email: **ahmedatef32003@gmail.com**
-- 💼 GitHub: https://github.com/AhmedAtef32
-
----
-
-<div align="center">
-
-⭐ If you like my work, consider starring my repositories  
-🤝 Open to collaboration on Angular & Front-End projects
-
-</div>
+  philosophy: "Clean UI + Clean Code = Scalable Product"
+};
