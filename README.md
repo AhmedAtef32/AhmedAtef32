@@ -10,11 +10,11 @@ Angular Front-End Developer | Building Scalable & Modern Web Applications
 
 <p align="center">
 
-<a href="https://my-portfolio-three-topaz-68.vercel.app">
+<a href="https://my-portfolio-three-topaz-68.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-EB5D3A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/ahmed-atef-19b154224">
+<a href="https://linkedin.com/in/ahmed-atef-19b154224" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Atef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -22,7 +22,7 @@ Angular Front-End Developer | Building Scalable & Modern Web Applications
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1nYdqAYfyloztpZnylzx1b943f3R2f4FM/view">
+<a href="https://drive.google.com/file/d/1nYdqAYfyloztpZnylzx1b943f3R2f4FM/view" target="_blank">
 <img src="https://img.shields.io/badge/Resume-View%20CV-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
