@@ -44,52 +44,6 @@ I specialize in developing modern Angular applications using **Angular Signals**
 
 ---
 
-# 🚀 Featured Projects
-
-### 🇪🇬 Egyptian Authority for Maritime Safety (EAMS)
-
-- Government platform built with Angular
-- Arabic & English Localization
-- Responsive UI
-- REST API Integration
-- Reusable Components
-
-**Tech Stack**
-
-`Angular` `Tailwind CSS` `PrimeNG` `REST API` `i18n`
-
----
-
-### 🏢 EAMS Dashboard
-
-- Enterprise Dashboard
-- Authentication & Authorization
-- CRUD Operations
-- REST API Integration
-- Angular Signals
-- Responsive Design
-
-**Tech Stack**
-
-`Angular` `Signals` `PrimeNG` `REST API`
-
----
-
-### 🎓 Sputnik CRM
-
-- CRM System
-- Google OAuth
-- Refresh Token Strategy
-- Angular Signals
-- Dynamic Forms
-- REST API
-
-**Tech Stack**
-
-`Angular` `Signals` `OAuth` `PrimeNG` `Tailwind CSS`
-
----
-
 # 💻 Tech Stack
 
 ## Front-End
